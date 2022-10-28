@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "marca":"Nvidia",
+        "modelo":"GTX 1630",
+        "precio":47700,
+        "img":"GeForce GTX 1630.jpg",
+        "descripcion":"Placa de video",
+        "stock":10
+    },
+    {
+        "id":2,
+        "marca":"Nvidia",
+        "modelo":"RTX 3070",
+        "precio":156100,
+        "img":"GeForce RTX 3070.jpg",
+        "descripcion":"Placa de video",
+        "stock":10
+    },
+    {
+        "id":3,
+        "marca":"Nvidia",
+        "modelo":"RTX 3090",
+        "precio":321450,
+        "img":"GeForce RTX 3090.jpg",
+        "descripcion":"Placa de video",
+        "stock":10
+    },
+    {
+        "id":4,
+        "marca":"LG 26",
+        "modelo":"26WQ500-B",
+        "precio":68650,
+        "img":"Monitor LG 26.jpg",
+        "descripcion":"Monitor",
+        "stock":10
+    },
+    {
+        "id":5,
+        "marca":"Samsung ",
+        "modelo":"T550 75Hz",
+        "precio":85600,
+        "img":"Monitor Samsung Curvo 32.jpg",
+        "descripcion":"Monitor",
+        "stock":10
+    },
+    {
+        "id":6,
+        "marca":"AMD",
+        "modelo":"Ryzen 7 5800x",
+        "precio":7235,
+        "img":"Procesador AMD Ryzen 7.jpg",
+        "descripcion":"Procesador",
+        "stock":10
+    },
+    {
+        "id":7,
+        "marca":"Intel core",
+        "modelo":"i5 10400",
+        "precio":39100,
+        "img":"Procesador Intel Core i5 10400.jpg",
+        "descripcion":"Procesador",
+        "stock":10
+    },
+    {
+        "id":8,
+        "marca":"Intel core",
+        "modelo":"i7 10700k",
+        "precio":73350,
+        "img":"Procesador Intel Core i7.jpg",
+        "descripcion":"Procesador",
+        "stock":10
+    },
+    {
+        "id":9,
+        "marca":"Disco solido",
+        "modelo":"M200",
+        "precio":98560,
+        "img":"Disco Solido SSD Externo USB.jpg",
+        "descripcion":"Disco solido",
+        "stock":10
+    },
+    {
+        "id":10,
+        "marca":"Mouse Logitech",
+        "modelo":"G903",
+        "precio":17000,
+        "img":"Mouse Logitech G903.jpg",
+        "descripcion":"Mouse",
+        "stock":10
+    }
+]
